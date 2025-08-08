@@ -14,9 +14,6 @@ This project uses the Ultralytics YOLO framework to train and run object detecti
 > **Note:**
 > The model is trained on a small YOLO11s architecture for only 2 epochs because I don’t have a high-end PC.
 > As a result, the accuracy is limited. This can be improved by:
-
 > - Increasing the number of epochs
-
 > - Using a larger dataset
-
 > - Training on a more powerful model
